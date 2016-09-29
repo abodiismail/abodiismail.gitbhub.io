@@ -1,0 +1,21 @@
+body {
+  background-image: url('https://www.bgafotobutik.se/upload/Posters/Bilder_Malimi_Posters/Varldskarta-Guldliknande.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+
+ }
+ 
+.js-get{
+	text-decoration: none;
+	color: black;
+	font-family: Bebas neue;
+	font-size: 20px;
+	background-color: none;
+	border: 2px solid black;
+	border-radius: 10%
+	padding:10px 10px;
+	margin-top: 1000px;
+
+}
+
